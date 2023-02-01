@@ -1,0 +1,22 @@
+body{
+
+    background-color: rgb(214, 179, 115);
+}
+
+.card pre{
+
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkcyan;
+    color: darkred;
+    margin-left: 20px;
+}
+.card h5{
+
+margin-left: 50px;
+
+}
+
+ .card a{
+
+    margin-left: 60px;
+ }
